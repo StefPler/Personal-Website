@@ -1,0 +1,54 @@
+h2 {
+    color: rgb(11, 44, 44)
+}
+
+h4, h5 {
+    color: rgb(34, 235, 168);
+}
+
+h6 {
+    color: cornflowerblue;
+}
+
+article {
+    text-align: center;
+    font-size: large;
+    color: rgb(197, 248, 255)
+} 
+
+.background {
+    background-image: linear-gradient(to right,rgb(114, 223, 223), rgb(86, 121, 141));
+}
+
+.backgroundB {
+    background-image: linear-gradient(to right, rgb(21, 50, 66), rgb(22, 80, 80));
+}
+
+td {
+    color: rgb(34, 235, 168);
+}
+
+dt, li {
+    color: rgb(109, 240, 240);
+}
+
+figcaption {
+    color: rgb(65, 156, 156);
+}
+
+p {
+    color: rgb(23, 20, 68);
+}
+
+.lighterP {
+    color: rgb(51, 143, 218);
+}
+
+.largerLetters{
+    font-size: large;
+}
+
+
+.panelBG {
+    background-image: linear-gradient(to right, rgb(27, 33, 53), rgb(36, 47, 87));
+}
